@@ -1,0 +1,1089 @@
+{
+  "云猫": {
+    "url": "https://cft-doc.yuncatcloud.top/#/shop",
+    "checked_on": "2026-10-28",
+    "tag": "月付与不限时包分开，多档设备额度",
+    "summary": "月付从9.80元150GB到128元高配档，另有198元260GB不限时包。",
+    "plans": [
+      {
+        "name": "白银套餐",
+        "price_cny": 9.8,
+        "billing": "月付",
+        "quota": "150GB/月",
+        "advertised_speed": "500Mbps",
+        "devices": "5台"
+      },
+      {
+        "name": "黄金套餐",
+        "price_cny": 18,
+        "billing": "月付",
+        "quota": "260GB/月",
+        "advertised_speed": "1000Mbps",
+        "devices": "10台"
+      },
+      {
+        "name": "铂金套餐",
+        "price_cny": 28,
+        "billing": "月付",
+        "quota": "450GB/月",
+        "advertised_speed": "2000Mbps",
+        "devices": "15台"
+      },
+      {
+        "name": "钻石套餐",
+        "price_cny": 48,
+        "billing": "月付",
+        "quota": "800GB/月",
+        "advertised_speed": "3000Mbps",
+        "devices": "20台"
+      },
+      {
+        "name": "星耀套餐",
+        "price_cny": 68,
+        "billing": "月付",
+        "quota": "1228GB/月*",
+        "advertised_speed": "5000Mbps",
+        "devices": "25台"
+      },
+      {
+        "name": "王者套餐",
+        "price_cny": 128,
+        "billing": "月付",
+        "quota": "2072GB/月*",
+        "advertised_speed": "页面标示不限制",
+        "devices": "30台"
+      },
+      {
+        "name": "不限时铂金套餐",
+        "price_cny": 198,
+        "billing": "一次性不限时",
+        "quota": "260GB总量",
+        "advertised_speed": "2000Mbps",
+        "devices": "10台"
+      }
+    ],
+    "reset": "周期方案每月1日北京时间00:00补满，补满不改变到期日；不限时包不按月重置，用完即止。",
+    "caveat": "星耀卡片同时写1.2TB和1228GB；王者同时写2TB和2072GB。此处保留页面GB原值，需以下单配额说明为准。速率与解锁仅为平台标称，未实测。"
+  },
+  "XSUS": {
+    "url": "https://xsus.cloud/plan",
+    "tag": "月付与按量包分开选，按IP数管理连接",
+    "summary": "XSUS 的方案分为普通月付、IEPL季度方案和不限时流量包。对于用量规律的读者，可以先比较普通月付；偶尔使用时，则可以把一次性包的总成本单独算一遍。",
+    "plans": [
+      {
+        "name": "P-Small",
+        "price_cny": 12,
+        "billing": "月付起",
+        "quota": "168GB/月",
+        "note": ""
+      },
+      {
+        "name": "P-Plus",
+        "price_cny": 24,
+        "billing": "月付起",
+        "quota": "336GB/月",
+        "note": ""
+      },
+      {
+        "name": "P-Max",
+        "price_cny": 30,
+        "billing": "月付起",
+        "quota": "420GB/月",
+        "note": ""
+      },
+      {
+        "name": "P-Ultra",
+        "price_cny": 70,
+        "billing": "月付起",
+        "quota": "1024GB/月",
+        "note": ""
+      },
+      {
+        "name": "IEPL-Small",
+        "price_cny": 52,
+        "billing": "季付起",
+        "quota": "50GB/月",
+        "note": ""
+      },
+      {
+        "name": "IEPL-PLUS",
+        "price_cny": 88,
+        "billing": "季付起",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "P-188G",
+        "price_cny": 65,
+        "billing": "一次性",
+        "quota": "188GB总量",
+        "note": ""
+      },
+      {
+        "name": "P-400G",
+        "price_cny": 122,
+        "billing": "一次性",
+        "quota": "400GB总量",
+        "note": ""
+      }
+    ],
+    "choose": "想控制月度预算，可先比较12元168GB的普通档；明确需要IEPL产品线时，再比较季度档。季度方案中的50GB或100GB是每月配额，52元或88元则是季度付款金额。",
+    "limits": "页面限制为最多5个IP，同一网络多设备按1个IP计算，不能改写成5台设备。月流量不结转；一次性包重复购买会重置而不是叠加；购买须知明确无法原路退款。",
+    "clients": "面板有Clash、sing-box、Shadowrocket、Loon导入及Windows、Android、macOS、iOS客户端下载入口。",
+    "checked_on": "2026-10-28"
+  },
+  "尔湾云": {
+    "url": "https://a02.ewy02.com/user/shop",
+    "tag": "按配额、设备数与速率逐档升级",
+    "summary": "尔湾云的普通套餐分为基础、标准、高级、旗舰和旗舰Max，除了流量变化，同时在线设备和页面标称峰值速率也随档位变化。适合把多设备需求与月度预算一起比较。",
+    "plans": [
+      {
+        "name": "基础版",
+        "price_cny": 24.99,
+        "billing": "30天",
+        "quota": "100GB",
+        "note": "2设备；标称50Mbps"
+      },
+      {
+        "name": "标准版",
+        "price_cny": 39.99,
+        "billing": "30天",
+        "quota": "200GB",
+        "note": "3设备；标称140Mbps"
+      },
+      {
+        "name": "高级版",
+        "price_cny": 49.99,
+        "billing": "30天",
+        "quota": "350GB",
+        "note": "5设备；标称270Mbps"
+      },
+      {
+        "name": "旗舰版",
+        "price_cny": 79.99,
+        "billing": "30天",
+        "quota": "600GB",
+        "note": "8设备；标称500Mbps"
+      },
+      {
+        "name": "旗舰版Max",
+        "price_cny": 119.99,
+        "billing": "30天",
+        "quota": "1200GB",
+        "note": "10设备；标称500Mbps"
+      }
+    ],
+    "choose": "两台设备且月用量不高，可以从基础档比较；同时在线设备超过两台时，应先对照设备限制再选档。表内速率是产品标称上限，不是实测下载成绩。",
+    "limits": "本次记录的是默认月付页签：30天，到期清零。另有长周期页签，但未把促销横幅折扣推算成未经结账确认的售价。旧套餐折算到余额的入口不等于原路退款。",
+    "clients": "当前后台推荐UniClash专属客户端，并提示第三方兼容性可能变化。已有固定路由器或通用客户端配置的读者，先确认是否接受这条配置路线。",
+    "checked_on": "2026-10-28"
+  },
+  "纵云梯": {
+    "url": "https://zongyunti.com/plan",
+    "tag": "流量与同时在线设备可按需配置",
+    "summary": "纵云梯使用配置式购买页：流量滑杆覆盖10—500GB，并可增加同时在线设备数。它与固定档位产品的区别，是可以先按自己的用量调整配置，再看系统报价。",
+    "plans": [
+      {
+        "name": "默认100GB、3设备",
+        "price_cny": 52.5,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": "默认配置，并非最低起售价"
+      },
+      {
+        "name": "默认100GB、3设备",
+        "price_cny": 525,
+        "billing": "年付",
+        "quota": "100GB/月",
+        "note": "精确折合43.75元/月"
+      }
+    ],
+    "choose": "不想在几个固定套餐之间跳档的读者，可以先比较这种配置方式。本文只记录页面默认100GB、3设备的报价，没有把默认价当作最低价。",
+    "limits": "默认含3台同时在线设备，页面注明每加1台增加10%。年付525元是一次付款总额，页面约44元/月属于四舍五入展示。",
+    "clients": "面板提供macOS教程和工单支持入口。其他系统与具体协议按当前教程核对，本文没有完成客户端安装测试。",
+    "checked_on": "2026-10-28"
+  },
+  "八戒": {
+    "url": "https://bajie.la/shop",
+    "tag": "月付、一次性包和低成本体验包并列",
+    "summary": "八戒同时提供月度配额和一次性不限时流量包，另外列有1元体验方案。按月规律使用和低频备用的读者，可以分别比较两种计费方式。",
+    "plans": [
+      {
+        "name": "体验包",
+        "price_cny": 1,
+        "billing": "一次购买",
+        "quota": "1GB总量",
+        "note": "30天有效"
+      },
+      {
+        "name": "70G月付",
+        "price_cny": 12.9,
+        "billing": "月付",
+        "quota": "70GB/月",
+        "note": ""
+      },
+      {
+        "name": "150G月付",
+        "price_cny": 25.9,
+        "billing": "月付",
+        "quota": "150GB/月",
+        "note": ""
+      },
+      {
+        "name": "300G月付",
+        "price_cny": 38.9,
+        "billing": "月付",
+        "quota": "300GB/月",
+        "note": ""
+      },
+      {
+        "name": "500G月付",
+        "price_cny": 51.9,
+        "billing": "月付",
+        "quota": "500GB/月",
+        "note": ""
+      },
+      {
+        "name": "100G不限时",
+        "price_cny": 34.8,
+        "billing": "一次性",
+        "quota": "100GB总量",
+        "note": ""
+      },
+      {
+        "name": "220G不限时",
+        "price_cny": 70.8,
+        "billing": "一次性",
+        "quota": "220GB总量",
+        "note": ""
+      },
+      {
+        "name": "390G不限时",
+        "price_cny": 118.8,
+        "billing": "一次性",
+        "quota": "390GB总量",
+        "note": ""
+      }
+    ],
+    "choose": "首次体验可先看1元1GB、30天有效的体验包；长期低频使用可比较一次性包，有固定月用量再比较月付。体验包不是免费试用，也不代表已经验证节点表现。",
+    "limits": "页面提示更换套餐会覆盖当前套餐。另售独享机房IP与共享动态家宽产品，不属于普通套餐，不能把其专属权益套用到所有用户。后台原分享域名本次不可达，注册页可手填本文邀请码，邀请绑定未实测。",
+    "clients": "购买页与导航提供客户端、使用文档入口。本文没有下载或安装其客户端。",
+    "checked_on": "2026-10-28"
+  },
+  "咖啡云": {
+    "url": "https://aicoffee.app/#/plan",
+    "tag": "以咖啡命名的四档月付套餐",
+    "summary": "咖啡云当前购买页主要列出美式、拿铁、摩卡、澳白四档，从100GB到700GB。套餐结构比较直观，适合按月用量逐档比较预算。",
+    "plans": [
+      {
+        "name": "来杯美式",
+        "price_cny": 16,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "来杯拿铁",
+        "price_cny": 28,
+        "billing": "月付",
+        "quota": "220GB/月",
+        "note": ""
+      },
+      {
+        "name": "来杯摩卡",
+        "price_cny": 53,
+        "billing": "月付",
+        "quota": "450GB/月",
+        "note": ""
+      },
+      {
+        "name": "来杯澳白",
+        "price_cny": 78,
+        "billing": "月付",
+        "quota": "700GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "用量在100GB以内，可先比较美式；在200GB左右时看拿铁。实际选择还要预留更新、视频与多设备产生的流量，不能只按平常网页浏览估计。",
+    "limits": "卡片注明不限客户端数、禁止共享订阅，所列价格不含手续费。官网写出的1Gbps、99.99% SLA和流媒体支持是平台声明，本文未验证相应表现或赔付条款。",
+    "clients": "页面有使用文档和订阅导入入口，公告介绍官方自研协议及iOS客户端。不同协议是否需要专用客户端，以对应教程为准。",
+    "checked_on": "2026-10-28"
+  },
+  "奶优": {
+    "url": "https://www.naiunet.com/#/plan",
+    "tag": "季度入门档与多档月付并存",
+    "summary": "奶优的Mini为季度起购，其他常规档从Nano到Large逐档增加配额。页面把长周期的月均价和月付价放在一起，比较时需要先分清实际付款周期。",
+    "plans": [
+      {
+        "name": "Mini",
+        "price_cny": 31,
+        "billing": "季付",
+        "quota": "50GB/月",
+        "note": "并非约10元可单月购买"
+      },
+      {
+        "name": "Nano",
+        "price_cny": 19.8,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "Micro",
+        "price_cny": 33,
+        "billing": "月付",
+        "quota": "200GB/月",
+        "note": ""
+      },
+      {
+        "name": "Small",
+        "price_cny": 45.1,
+        "billing": "月付",
+        "quota": "350GB/月",
+        "note": ""
+      },
+      {
+        "name": "Medium",
+        "price_cny": 70.4,
+        "billing": "月付",
+        "quota": "700GB/月",
+        "note": ""
+      },
+      {
+        "name": "Large",
+        "price_cny": 121,
+        "billing": "月付",
+        "quota": "1500GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "少量但连续使用时，可比较季付Mini；希望逐月付款时从Nano开始看。年付月均价只能用来比较长期成本，不应当作当月可支付金额。",
+    "limits": "产品卡说明仅供账户持有者使用。续费公告提示流量包覆盖且不补偿；同等级续费叠加时间但流量不叠加，具体按结账页与客服解释确认。",
+    "clients": "面板提供使用文档与订阅导入；IEPL、突发带宽和流媒体描述均为平台自述，不是本文的线路或解锁测试。",
+    "checked_on": "2026-10-28"
+  },
+  "泡泡Dog": {
+    "url": "https://paopaogou.co/#/plan",
+    "tag": "常规月付与总量型年度活动方案",
+    "summary": "泡泡Dog常规周期档从88GB、268GB到688GB；另有秋季限定的年度总流量方案。这两种配额口径不同，适合先按全年用量和每月使用习惯分别计算。",
+    "plans": [
+      {
+        "name": "白银",
+        "price_cny": 15.4,
+        "billing": "月付",
+        "quota": "88GB/月",
+        "note": ""
+      },
+      {
+        "name": "铂金",
+        "price_cny": 27.5,
+        "billing": "月付",
+        "quota": "268GB/月",
+        "note": "卡片列10设备同时用"
+      },
+      {
+        "name": "钻石",
+        "price_cny": 60.5,
+        "billing": "月付",
+        "quota": "688GB/月",
+        "note": "卡片列10设备同时用"
+      },
+      {
+        "name": "秋季限定",
+        "price_cny": 116.6,
+        "billing": "年付",
+        "quota": "总计888GB",
+        "note": "一次到账，1年内用完"
+      }
+    ],
+    "choose": "用量稳定时比较周期档；用量波动较大时，可以单独计算年度总量方案是否适合。116.60元的888GB为整年总量，不能按每月888GB估算。",
+    "limits": "年度限定方案可能下架。铂金与钻石卡片列出10设备同时用，不能把这一限制直接套用到没有对应说明的其他档位。",
+    "clients": "铂金、钻石及年度卡片标示ShadowsocksObfs，并有全平台客户端说明；具体版本按文档核对。",
+    "checked_on": "2026-10-28"
+  },
+  "泰山": {
+    "url": "https://ts5.t11-b.app/console/plan",
+    "tag": "轻量季付、普通月付与不限时包",
+    "summary": "泰山有每月64GB的季度起购档，也有128GB、256GB和512GB月付档，同时提供200GB、600GB一次性配额。适合将常规月度使用与备用总量分开选择。",
+    "plans": [
+      {
+        "name": "轻量64G",
+        "price_cny": 29,
+        "billing": "季付",
+        "quota": "64GB/月",
+        "note": "标称200Mbps"
+      },
+      {
+        "name": "标准128G",
+        "price_cny": 13,
+        "billing": "月付",
+        "quota": "128GB/月",
+        "note": "标称300Mbps"
+      },
+      {
+        "name": "进阶256G",
+        "price_cny": 24,
+        "billing": "月付",
+        "quota": "256GB/月",
+        "note": "标称500Mbps"
+      },
+      {
+        "name": "高级512G",
+        "price_cny": 42,
+        "billing": "月付",
+        "quota": "512GB/月",
+        "note": "标称1000Mbps"
+      },
+      {
+        "name": "不限时200G",
+        "price_cny": 78,
+        "billing": "一次性",
+        "quota": "200GB总量",
+        "note": ""
+      },
+      {
+        "name": "不限时600G",
+        "price_cny": 195,
+        "billing": "一次性",
+        "quota": "600GB总量",
+        "note": ""
+      }
+    ],
+    "choose": "64GB轻量档需要季度付款，29元不是月费。想逐月付费可从13元128GB档比较；只作低频备用时，注意一次性包与周期档的配额区别。",
+    "limits": "页面明确无退款政策，列出支付宝、微信与虚拟币付款。标称不限制设备连接数量，不等于可以违反账号或订阅分享规则。表内速率为平台参数。",
+    "clients": "购买页提供服务文档与服务中心入口。当前域名由原注册入口自动跳转取得，域名可能继续变化。",
+    "checked_on": "2026-10-28"
+  },
+  "飞鸟": {
+    "url": "https://a02.fbaffb07.cc/user/shop",
+    "tag": "统一30天重置，补充包需有效套餐",
+    "summary": "飞鸟普通月付按100GB、200GB、500GB、1000GB分档，每30天重置。流量不足时还有补充包，但补充包不能脱离基础套餐单独使用。",
+    "plans": [
+      {
+        "name": "青铜",
+        "price_cny": 15,
+        "billing": "月付",
+        "quota": "100GB/30天",
+        "note": ""
+      },
+      {
+        "name": "白银",
+        "price_cny": 30,
+        "billing": "月付",
+        "quota": "200GB/30天",
+        "note": ""
+      },
+      {
+        "name": "黄金",
+        "price_cny": 75,
+        "billing": "月付",
+        "quota": "500GB/30天",
+        "note": ""
+      },
+      {
+        "name": "钻石",
+        "price_cny": 150,
+        "billing": "月付",
+        "quota": "1000GB/30天",
+        "note": ""
+      },
+      {
+        "name": "补充50G",
+        "price_cny": 8,
+        "billing": "需有效套餐",
+        "quota": "50GB",
+        "note": "随当月套餐周期有效"
+      }
+    ],
+    "choose": "先按常用月度配额选基础档；临时超量时再比较补充包。只买8元补充包不能直接开通服务，套餐已过期也不适用。",
+    "limits": "购买页提示升级或降级会自动转换有效期和流量。全节点、解锁、无限速等均是平台描述，不作为实测承诺。",
+    "clients": "首页公布v7.2.5专属客户端下载，覆盖Windows、macOS、Android、Android TV、Linux和OpenWRT，并提供iOS教程；本文未安装测试。",
+    "checked_on": "2026-10-28"
+  },
+  "好鸭": {
+    "url": "https://x.niceduck.sh/plan",
+    "tag": "季度Mini档与多档月付，明确个人使用",
+    "summary": "好鸭当前有每月60GB的Mini季付，以及100GB到1000GB的多档月付。对低用量读者，季度Mini和小小鸭月付值得按付款方式分别比较。",
+    "plans": [
+      {
+        "name": "Mini鸭",
+        "price_cny": 26,
+        "billing": "季付",
+        "quota": "60GB/月",
+        "note": ""
+      },
+      {
+        "name": "小小鸭",
+        "price_cny": 16,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "小鸭",
+        "price_cny": 32,
+        "billing": "月付",
+        "quota": "200GB/月",
+        "note": ""
+      },
+      {
+        "name": "中鸭",
+        "price_cny": 42,
+        "billing": "月付",
+        "quota": "300GB/月",
+        "note": ""
+      },
+      {
+        "name": "大鸭",
+        "price_cny": 60,
+        "billing": "月付",
+        "quota": "500GB/月",
+        "note": ""
+      },
+      {
+        "name": "超大鸭",
+        "price_cny": 95,
+        "billing": "月付",
+        "quota": "1000GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "持续低用量可先比较Mini季付；需要逐月付款则看小小鸭起的月付档。优惠码是否适用于所选档位，要以结账验证为准，表内不预先扣减促销折扣。",
+    "limits": "产品卡明确不退款，仅个人使用，禁止共享订阅。26元为季度金额，不是每月26元，也不是三个月总共60GB。",
+    "clients": "卡片标示VLESS。面板有iOS、Android、macOS、Windows配置页签，macOS页签可见ClashX、Surge、Loon导入入口。",
+    "checked_on": "2026-10-28"
+  },
+  "龙猫云": {
+    "url": "https://lmspeed.co/shop",
+    "tag": "四档月付与另行咨询的定制产品",
+    "summary": "龙猫云普通VIP月付为100GB、200GB、400GB和1000GB四档，另有单独的DIY定制方案。普通订阅与独享IP、独享带宽定制应分开看。",
+    "plans": [
+      {
+        "name": "VIP1",
+        "price_cny": 15,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP2",
+        "price_cny": 30,
+        "billing": "月付",
+        "quota": "200GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP3",
+        "price_cny": 60,
+        "billing": "月付",
+        "quota": "400GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP4",
+        "price_cny": 120,
+        "billing": "月付",
+        "quota": "1000GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "普通个人使用先比较VIP四档即可；只有确有独享出口等需求时，再询问DIY定制。定制卡片标价680元/月并要求联系工单，不应按普通节点套餐理解。",
+    "limits": "购买页提示更换套餐会覆盖当前套餐。IPLC、不限速和流媒体解锁是平台自述，本次仅核实产品页面，没有测试对应能力。",
+    "clients": "面板提供教程中心和客户端页面，首页有官方客户端版本公告。下载与安装要求以本家当时的文档为准。",
+    "checked_on": "2026-10-28"
+  },
+  "WCloud": {
+    "url": "https://www.weidu1.com/#/plan",
+    "tag": "低价月付与不限时总量包",
+    "summary": "WCloud 当前同时有固定月度配额和不限时流量包。入门月付9.6元对应108GB；低频备用则可以单独比较一次性总量，不需要把每月配额与总包容量混在一起。",
+    "plans": [
+      {
+        "name": "入门108G",
+        "price_cny": 9.6,
+        "billing": "月付",
+        "quota": "108GB/月",
+        "note": ""
+      },
+      {
+        "name": "日常188G",
+        "price_cny": 16,
+        "billing": "月付",
+        "quota": "188GB/月",
+        "note": ""
+      },
+      {
+        "name": "畅流250G",
+        "price_cny": 21.9,
+        "billing": "月付",
+        "quota": "250GB/月",
+        "note": ""
+      },
+      {
+        "name": "巅峰580G",
+        "price_cny": 46,
+        "billing": "月付",
+        "quota": "580GB/月",
+        "note": ""
+      },
+      {
+        "name": "不限时基础包",
+        "price_cny": 56,
+        "billing": "一次性",
+        "quota": "250GB总量",
+        "note": ""
+      },
+      {
+        "name": "不限时扩容包",
+        "price_cny": 149,
+        "billing": "一次性",
+        "quota": "700GB总量",
+        "note": ""
+      },
+      {
+        "name": "不限时尊享包",
+        "price_cny": 249,
+        "billing": "一次性",
+        "quota": "1200GB总量",
+        "note": ""
+      },
+      {
+        "name": "不限时狂飙包",
+        "price_cny": 299,
+        "billing": "一次性",
+        "quota": "1888GB总量",
+        "note": ""
+      }
+    ],
+    "choose": "固定每月使用可从108GB档比较；只是偶尔备用时，先估算一年总流量，再比较不限时包。WCloud与WgetCloud是不同的服务，账号和权益不要混用。",
+    "clients": "面板有使用文档与订阅导入入口，并在公告中链接weidu5.net作为教程与常见问题入口。没有安装或验证所有客户端。",
+    "limits": "卡片明确无退款服务。页面显示的年付、半年付月均价不是可单月购买金额，本表只记录月付与一次性实际展示金额。突发3000Mbps、SLA及解锁均为平台自述。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "极客云": {
+    "url": "https://jike2cds.net/user/shop",
+    "tag": "会员等级同时决定配额、设备和节点范围",
+    "summary": "极客云的五档月付除了流量变化，还区分设备数、标称速率及可使用的节点等级。需要特定产品线时，要先看套餐是否包含对应节点，而不是只比较总流量。",
+    "plans": [
+      {
+        "name": "入门版",
+        "price_cny": 19.99,
+        "billing": "月付",
+        "quota": "100GB",
+        "note": "2设备；标称60M"
+      },
+      {
+        "name": "基础版",
+        "price_cny": 29.99,
+        "billing": "月付",
+        "quota": "200GB",
+        "note": "3设备；标称150M"
+      },
+      {
+        "name": "标准版",
+        "price_cny": 39.99,
+        "billing": "月付",
+        "quota": "350GB",
+        "note": "5设备；标称300M"
+      },
+      {
+        "name": "旗舰版",
+        "price_cny": 59.99,
+        "billing": "月付",
+        "quota": "600GB",
+        "note": "8设备；标称不限速"
+      },
+      {
+        "name": "旗舰版大流量",
+        "price_cny": 99.99,
+        "billing": "月付",
+        "quota": "1200GB",
+        "note": "10设备；标称不限速"
+      }
+    ],
+    "choose": "先按同时在线设备数筛选，再看配额。当前商品卡中IPLC节点列在旗舰与旗舰大流量，不能把旗舰权益套用到入门档。",
+    "clients": "首页推荐UniClash，提供Windows、macOS ARM/Intel及Android下载，并保留第三方与iOS教程入口。本次未下载安装。",
+    "limits": "商店说明流量一次性到账、到期清零，长周期如何分配以所选订单为准。商品卡仍写SSR/V2ray，首页却明确提示SSR已下架，存在内容不一致，购买前应确认当前可用协议。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "青云梯": {
+    "url": "https://qytaff02.cc/shop",
+    "tag": "年付小流量档与四档普通月付",
+    "summary": "青云梯当前有96元年付、每月60GB的小流量方案，以及150GB到1000GB的四档月付。低用量与按月使用两种习惯可以分别比较。",
+    "plans": [
+      {
+        "name": "年付小包",
+        "price_cny": 96,
+        "billing": "年付",
+        "quota": "60GB/月",
+        "note": "全年付款，非8元可单月购买"
+      },
+      {
+        "name": "VIP1",
+        "price_cny": 25,
+        "billing": "月付",
+        "quota": "150GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP2",
+        "price_cny": 45,
+        "billing": "月付",
+        "quota": "300GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP3",
+        "price_cny": 85,
+        "billing": "月付",
+        "quota": "600GB/月",
+        "note": ""
+      },
+      {
+        "name": "VIP4",
+        "price_cny": 150,
+        "billing": "月付",
+        "quota": "1000GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "长期每月用量较小，可以把年付小包纳入预算；尚未体验、想逐月选择时，则从VIP月付档比较。96元除以12得到的8元，只是月均成本。",
+    "clients": "当前公告要求更新到v7.2.5专属客户端，列有Windows、macOS、Android、Android TV、Linux与OpenWRT下载，以及iOS教程；未安装测试。",
+    "limits": "产品卡写所有节点x1倍率、季付及以上从购买日起每30天更新流量；更换套餐会覆盖当前套餐。IPLC、不限速与解锁属于平台标称，网页中的2.5GBPs单位未独立核实，本文不将其转成测速结论。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "精灵学院": {
+    "url": "https://user.riolu-node.link/pricing",
+    "tag": "公开月付卡片与一次性流量包",
+    "summary": "精灵学院旧入口已跳到新的公开官网。价格页列出Iron、Silver、Gold、Diamond四档，以及两种一次性总量包；当前还存在卡片与下方静态对比表不一致的地方。",
+    "plans": [
+      {
+        "name": "Iron",
+        "price_cny": 8,
+        "billing": "按月展示价起",
+        "quota": "30GB/月",
+        "note": ""
+      },
+      {
+        "name": "Silver",
+        "price_cny": 14,
+        "billing": "按月展示价起",
+        "quota": "120GB/月",
+        "note": "静态表仍写15元，需结账确认"
+      },
+      {
+        "name": "Gold",
+        "price_cny": 41,
+        "billing": "按月展示价起",
+        "quota": "360GB/月",
+        "note": "静态表仍写45元，需结账确认"
+      },
+      {
+        "name": "Diamond",
+        "price_cny": 68,
+        "billing": "按月展示价起",
+        "quota": "600GB/月",
+        "note": "静态表仍写75元，需结账确认"
+      },
+      {
+        "name": "不限时Small",
+        "price_cny": 70,
+        "billing": "一次性",
+        "quota": "400GB总量",
+        "note": ""
+      },
+      {
+        "name": "不限时Large",
+        "price_cny": 130,
+        "billing": "一次性",
+        "quota": "800GB总量",
+        "note": ""
+      }
+    ],
+    "choose": "少量使用可以先比较Iron和一次性包；中高档报价应在登录后的订单页再确认。这里记录切换至按月后的公开卡片值，没有把页面内冲突当作已解决。",
+    "clients": "公开卡片标示VLESS，网站列出macOS、Windows、Android、iOS、iPadOS、Linux和路由器等支持范围；具体客户端版本按文档核对。",
+    "limits": "静态表写5设备，FAQ又说目前不考虑设备限制，不能据此宣传无限设备。说明不支持原路退款，默认仅本人使用，禁止合租、转借和转售。续费不直接重置当月流量。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "大哥云": {
+    "url": "https://a03.dgy02.com/#/plan",
+    "tag": "单月、季度与年付配额分档",
+    "summary": "大哥云当前商品页列出一档月付、一档季付和三档年付，小流量年付与大流量年付差异明显。预算比较时应同时看全年付款额和每月实际配额。",
+    "plans": [
+      {
+        "name": "单月A",
+        "price_cny": 19.9,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": ""
+      },
+      {
+        "name": "季付A",
+        "price_cny": 69,
+        "billing": "季付",
+        "quota": "200GB/月",
+        "note": ""
+      },
+      {
+        "name": "小流量年付",
+        "price_cny": 88,
+        "billing": "年付",
+        "quota": "15GB/月",
+        "note": ""
+      },
+      {
+        "name": "年付300GB",
+        "price_cny": 199,
+        "billing": "年付",
+        "quota": "300GB/月",
+        "note": ""
+      },
+      {
+        "name": "年付500GB",
+        "price_cny": 299,
+        "billing": "年付",
+        "quota": "500GB/月",
+        "note": ""
+      }
+    ],
+    "choose": "逐月使用看19.90元100GB；长期低用量看88元年付15GB/月；更高月用量再比较季度与年付。不要将全年88元误读为每月可用88GB。",
+    "clients": "商品卡标示Trojan协议，面板有使用文档和订阅导入入口。未验证每个客户端或安装包。",
+    "limits": "卡片明确不支持原路退款。流量按订单日重置，不同周期对流量重置包和续费的说明有所区别。本轮未显示旧文章中的另一月付档，故不沿用；标称500/1000Mbps不是实测速度。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "星云": {
+    "url": "https://www.xingyunjichang.com/#/shop",
+    "tag": "月付、分月配额年付与不限时包",
+    "summary": "星云当前同时提供普通月付、特惠年付与不限时包。年付名称中的600GB、1200GB等是全年各月配额合计，不代表一次性到账的可自由支配总量。",
+    "plans": [
+      {
+        "name": "轻量月付",
+        "price_cny": 18,
+        "billing": "月付",
+        "quota": "100GB/月",
+        "note": "3台客户端"
+      },
+      {
+        "name": "专业月付",
+        "price_cny": 38,
+        "billing": "月付",
+        "quota": "300GB/月",
+        "note": "15台客户端"
+      },
+      {
+        "name": "高级月付",
+        "price_cny": 53.6,
+        "billing": "月付",
+        "quota": "500GB/月",
+        "note": "20台客户端"
+      },
+      {
+        "name": "特惠年付600GB",
+        "price_cny": 76,
+        "billing": "年付",
+        "quota": "50GB/月",
+        "note": "3台客户端"
+      },
+      {
+        "name": "年付Air1200GB",
+        "price_cny": 116,
+        "billing": "年付",
+        "quota": "100GB/月",
+        "note": "10台客户端"
+      },
+      {
+        "name": "年付Plus1800GB",
+        "price_cny": 146,
+        "billing": "年付",
+        "quota": "150GB/月",
+        "note": "13台客户端"
+      },
+      {
+        "name": "年付Pro2400GB",
+        "price_cny": 176,
+        "billing": "年付",
+        "quota": "200GB/月",
+        "note": "20台客户端"
+      },
+      {
+        "name": "年付Ultra3600GB",
+        "price_cny": 226,
+        "billing": "年付",
+        "quota": "300GB/月",
+        "note": "30台客户端"
+      },
+      {
+        "name": "不限时白银",
+        "price_cny": 48,
+        "billing": "一次性",
+        "quota": "200GB总量",
+        "note": "3台客户端"
+      },
+      {
+        "name": "不限时黄金",
+        "price_cny": 109,
+        "billing": "一次性",
+        "quota": "500GB总量",
+        "note": "10台客户端"
+      },
+      {
+        "name": "不限时钻石",
+        "price_cny": 279,
+        "billing": "一次性",
+        "quota": "1500GB总量",
+        "note": "20台客户端"
+      },
+      {
+        "name": "不限时王者",
+        "price_cny": 499,
+        "billing": "一次性",
+        "quota": "3200GB总量",
+        "note": "30台客户端"
+      }
+    ],
+    "choose": "重视逐月付款可从轻量月付比较；用量稳定且接受长周期付款，再看年付分月配额；低频备用则单独比较不限时包，不把年付标题总量当作随时可用流量。",
+    "clients": "商品页按客户端同时登录数区分档位，面板提供教程入口。当前客户端路线应以教程和实际下载页为准，本文未完成客户端安装。",
+    "limits": "年付产品卡写订单日重置，通用须知却写常规套餐默认每月1日重置，存在口径差异，应以具体订单及客服解释确认。续费增加周期，不重置当前周期流量；SLA、带宽和解锁均为平台标称。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "狗狗加速": {
+    "url": "https://gocn.dg6.top:8443/#/plan",
+    "tag": "标准档周期报价与个人设备限制",
+    "summary": "狗狗加速标准套餐当前为160GB，购买页可选择1个月、6个月和1年。规格展开后列出了协议、设备及限速规则，不能仅按宣传名称判断产品表现。",
+    "plans": [
+      {
+        "name": "标准套餐",
+        "price_cny": 16.9,
+        "billing": "1个月",
+        "quota": "160GB",
+        "note": "1人2设备；标称100M"
+      },
+      {
+        "name": "标准套餐半年",
+        "price_cny": 94.9,
+        "billing": "6个月",
+        "quota": "160GB配额",
+        "note": "周期内重置见订单规则"
+      },
+      {
+        "name": "标准套餐年付",
+        "price_cny": 179.9,
+        "billing": "1年",
+        "quota": "160GB配额",
+        "note": "周期内重置见订单规则"
+      }
+    ],
+    "choose": "先按标准月付的设备与配额限制比较是否合用，再决定是否考虑更长周期。页面另列高级200GB、豪华500GB等选项，本版未逐一切换确认其具体周期报价。",
+    "clients": "标准规格列出anytls、hysteria2、mieru、naive、vmess。登录页有官方App Store入口及移动应用说明，不代表所有客户端都支持全部协议。",
+    "limits": "标准特性写1人2设备、禁止多人共享、标称限速100M，流量在订单日清空；续期只增加有效期，不重置当前流量。登录横幅明确不承诺速度、不支持退款。",
+    "checked_on": "2026-10-29",
+    "price_status": "当前页面展示价，未验证结账"
+  },
+  "WgetCloud": {
+    "url": "https://katp7luhifu2zxnpy8cs.wgetcloud.org/user/shop",
+    "checked_on": "2026-10-29",
+    "document_updated": "2026-10-25",
+    "price_status": "当前个人商品页展示价已核对；未验证结账",
+    "plans": [
+      {
+        "name": "基础季付",
+        "price_cny": 357,
+        "billing": "季付，90天",
+        "quota": "230G/30天",
+        "monthly_equivalent_cny": 119,
+        "advertised_speed_mbps": 200,
+        "public_ips": 3,
+        "connections": 300,
+        "note": "按整期付款，非单月购买"
+      },
+      {
+        "name": "优质季付",
+        "price_cny": 387,
+        "billing": "季付，90天",
+        "quota": "250G/30天",
+        "monthly_equivalent_cny": 129,
+        "advertised_speed_mbps": 300,
+        "public_ips": 4,
+        "connections": 800,
+        "note": "按整期付款，非单月购买"
+      },
+      {
+        "name": "精品季付",
+        "price_cny": 417,
+        "billing": "季付，90天",
+        "quota": "270G/30天",
+        "monthly_equivalent_cny": 139,
+        "advertised_speed_mbps": 500,
+        "public_ips": 5,
+        "connections": 1500,
+        "note": "按整期付款，非单月购买"
+      },
+      {
+        "name": "基础年付",
+        "price_cny": 1188,
+        "billing": "年付，页面360天",
+        "quota": "280G/30天",
+        "monthly_equivalent_cny": 99,
+        "advertised_speed_mbps": 200,
+        "public_ips": 3,
+        "connections": 300,
+        "note": "按整期付款；页面服务时长为360天"
+      },
+      {
+        "name": "优质年付",
+        "price_cny": 1308,
+        "billing": "年付，页面360天",
+        "quota": "320G/30天",
+        "monthly_equivalent_cny": 109,
+        "advertised_speed_mbps": 300,
+        "public_ips": 4,
+        "connections": 800,
+        "note": "按整期付款；页面服务时长为360天"
+      },
+      {
+        "name": "精品年付",
+        "price_cny": 1428,
+        "billing": "年付，页面360天",
+        "quota": "360G/30天",
+        "monthly_equivalent_cny": 119,
+        "advertised_speed_mbps": 500,
+        "public_ips": 5,
+        "connections": 1500,
+        "note": "按整期付款；页面服务时长为360天"
+      }
+    ],
+    "specifications": [
+      {
+        "name": "基础",
+        "quarterly_quota": "230G/30天",
+        "annual_quota": "280G/30天",
+        "advertised_speed": "200Mbps",
+        "public_ips": 3,
+        "connections": 300
+      },
+      {
+        "name": "优质",
+        "quarterly_quota": "250G/30天",
+        "annual_quota": "320G/30天",
+        "advertised_speed": "300Mbps",
+        "public_ips": 4,
+        "connections": 800
+      },
+      {
+        "name": "精品",
+        "quarterly_quota": "270G/30天",
+        "annual_quota": "360G/30天",
+        "advertised_speed": "500Mbps",
+        "public_ips": 5,
+        "connections": 1500
+      }
+    ],
+    "note": "当前商品页直接链接help-info.wgetcloud.org，已补齐官网到帮助域的反向链接；参数和标称性能未经独立测试。",
+    "documentation_url": "https://help-info.wgetcloud.org/zh/article/5awx6asq5yy65yirloacies7gos5ioikguecuseo5zcr6lst5lmw5rwb56ilkq-1oeyl5w/"
+  }
+}

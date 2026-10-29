@@ -1,0 +1,210 @@
+[
+  {
+    "order": 1,
+    "name": "云猫 CloudCat / 云猫科技",
+    "registration_url": "https://cloud.yuncat.net/#/register?code=GVJT1ONh",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://cft-doc.yuncatcloud.top/#/shop",
+    "screenshot": "assets/sites/cloudcat-shop-1.png",
+    "screenshots": [
+      "assets/sites/cloudcat-shop-1.png",
+      "assets/sites/cloudcat-shop-2.png"
+    ]
+  },
+  {
+    "order": 2,
+    "name": "狗狗加速 Doggygo",
+    "registration_url": "https://www.dginv.click/#/register?code=HeViR3vJ",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://gocn.dg6.top:8443/#/plan",
+    "screenshot": "assets/sites/doggygo-shop.png"
+  },
+  {
+    "order": 3,
+    "name": "尔湾云",
+    "registration_url": "https://ewanwtt.net/auth/register?code=QkcUwp",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://a02.ewy02.com/user/shop",
+    "screenshot": "assets/sites/erwan-shop.png"
+  },
+  {
+    "order": 4,
+    "name": "XSUS",
+    "registration_url": "https://xsus.cloud/register?code=Zkm9Qh54",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://xsus.cloud/plan",
+    "screenshot": "assets/sites/xsus-shop.png"
+  },
+  {
+    "order": 5,
+    "name": "纵云梯",
+    "registration_url": "https://zongyunti.com/?r=249921",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://zongyunti.com/plan",
+    "screenshot_status": "待补：页面导航持续超时",
+    "screenshot": "assets/sites/zongyunti-shop.png"
+  },
+  {
+    "order": 6,
+    "name": "极客云",
+    "registration_url": "https://jikefind.net/auth/register?code=cUC2",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://jike2cds.net/user/shop",
+    "screenshot": "assets/sites/jike-shop.png"
+  },
+  {
+    "order": 7,
+    "name": "八戒",
+    "registration_url": "https://bajie.la/register?aff=TmMKqKpo",
+    "information_date": "2026-10-28",
+    "link_status": "沿用后台aff参数更换到可访问的注册域名；新用户归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://bajie.la/shop",
+    "screenshot_status": "待补：连接失败",
+    "screenshot": "assets/sites/bajie-shop.png"
+  },
+  {
+    "order": 8,
+    "name": "WgetCloud",
+    "registration_url": "https://invite.wgetcloud.ltd/auth/register?code=GC5hfB",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://katp7luhifu2zxnpy8cs.wgetcloud.org/user/shop",
+    "screenshot": "assets/sites/wgetcloud-home.png"
+  },
+  {
+    "order": 9,
+    "name": "WCloud",
+    "registration_url": "https://www.weidu1.com/#/register?code=4JyZlfdr",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://www.weidu1.com/#/plan",
+    "screenshot_status": "待补：本次未取得有效登录后的套餐截图",
+    "screenshot": "assets/sites/wcloud-shop.png"
+  },
+  {
+    "order": 10,
+    "name": "咖啡云 CoffeeCloud",
+    "registration_url": "https://aicoffee.app/#/register?code=yplZVh8v",
+    "information_date": "2026-10-28",
+    "link_status": "已核对邀请码；注册链接按当前入口与邀请码组合，归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://aicoffee.app/#/plan",
+    "screenshot": "assets/sites/coffee-shop.png"
+  },
+  {
+    "order": 11,
+    "name": "奶优 NaiU_Net",
+    "registration_url": "https://www.naiunet.com/#/register?code=FdRsnsTY",
+    "information_date": "2026-10-28",
+    "link_status": "已核对邀请码；注册链接按当前入口与邀请码组合，归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://www.naiunet.com/#/plan",
+    "screenshot": "assets/sites/naiu-shop.png"
+  },
+  {
+    "order": 12,
+    "name": "泡泡Dog",
+    "registration_url": "https://paopaogou.co/#/register?code=g4DTM096",
+    "information_date": "2026-10-28",
+    "link_status": "已核对邀请码；注册链接按当前入口与邀请码组合，归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://paopaogou.co/#/plan",
+    "screenshot": "assets/sites/paopao-shop.png"
+  },
+  {
+    "order": 13,
+    "name": "大哥云",
+    "registration_url": "https://a03.dgy02.com/#/register?code=jJTv35WG",
+    "information_date": "2026-10-29",
+    "link_status": "已核对邀请码；注册链接按当前入口与邀请码组合，归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://a03.dgy02.com/#/plan",
+    "screenshot": "assets/sites/dage-shop.png"
+  },
+  {
+    "order": 14,
+    "name": "星云",
+    "registration_url": "https://www.xingyunjichang.com/#/register?code=ngwrsPY3",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://www.xingyunjichang.com/#/shop",
+    "screenshot": "assets/sites/xingyun-shop.png"
+  },
+  {
+    "order": 15,
+    "name": "泰山 TaiShan Net",
+    "registration_url": "https://jp.taishan.app/register?code=YMe9G2bQ",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://ts5.t11-b.app/console/plan",
+    "screenshot": "assets/sites/taishan-home.png"
+  },
+  {
+    "order": 16,
+    "name": "飞鸟 FlyingBird",
+    "registration_url": "https://fbinv02.fbaff.cc/auth/register?code=F5eNanFW",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://a02.fbaffb07.cc/user/shop",
+    "screenshot": "assets/sites/flyingbird-shop.png"
+  },
+  {
+    "order": 17,
+    "name": "精灵学院 RioLU",
+    "registration_url": "https://ok.riolu.work/register?aff=UoJu1HbO",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://user.riolu-node.link/pricing",
+    "screenshot": "assets/sites/riolu-home.png"
+  },
+  {
+    "order": 18,
+    "name": "青云梯",
+    "registration_url": "https://inv02.qytaff.cc/register?aff=39fyLAnm",
+    "information_date": "2026-10-29",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://qytaff02.cc/shop",
+    "screenshot_status": "待补：停在访问检查，待完成",
+    "screenshot": "assets/sites/qingyunti-shop.png"
+  },
+  {
+    "order": 19,
+    "name": "好鸭 NiceDuck",
+    "registration_url": "https://x.niceduck.sh/register?code=GjNWEZyZ",
+    "information_date": "2026-10-28",
+    "link_status": "已核对邀请码；注册链接按当前入口与邀请码组合，归因未实测",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://x.niceduck.sh/plan",
+    "screenshot": "assets/sites/niceduck-shop.png"
+  },
+  {
+    "order": 20,
+    "name": "龙猫云",
+    "registration_url": "https://inv06.lmaff01.cc/register?aff=62SG6k8G",
+    "information_date": "2026-10-28",
+    "link_status": "后台提供，未实测新用户归因",
+    "product_status": "当前商品页已核对",
+    "product_source": "https://lmspeed.co/shop",
+    "screenshot": "assets/sites/totoro-shop.png"
+  }
+]
