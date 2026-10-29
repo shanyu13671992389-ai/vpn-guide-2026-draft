@@ -265,7 +265,7 @@ XSUS提供普通月付、IEPL季度方案和不限时流量包。月付、季付
 
 ### 客户端与使用说明
 
-面板提供macOS教程和工单支持入口。其他系统与具体协议按当前教程核对，
+面板提供macOS教程和工单支持入口。其他系统与具体协议按当前教程核对。
 
 ---
 
@@ -408,7 +408,7 @@ WgetCloud的套餐分基础专线、优质专线和精品专线。区别不只�
 
 ### 客户端与使用说明
 
-商店列有VLESS／XHTTP说明，各系统配置按站内教程操作。
+帮助文档主要协助Clash核心应用、OpenWRT、Surfboard、ssrray和Shadowrocket，Linux暂不提供协助。安装与导入按所选客户端的官方教程操作。
 
 ---
 
@@ -778,7 +778,7 @@ FLYINGBIRD飞鸟的普通套餐分青铜、白银、黄金和钻石，流量每3
 
 ### 客户端与使用说明
 
-首页公布v7.2.5专属客户端下载，覆盖Windows、macOS、Android、Android TV、Linux和OpenWRT，并提供iOS教程；
+首页公布v7.2.5专属客户端下载，覆盖Windows、macOS、Android、Android TV、Linux和OpenWRT，并提供iOS教程。
 
 ---
 
