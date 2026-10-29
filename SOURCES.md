@@ -89,3 +89,9 @@
 前文结构及对应商家介绍参考[John19187/The-40-Best-VPNs](https://github.com/John19187/The-40-Best-VPNs)，维护者原创文字按MIT许可摘改。对应17家为狗狗加速、尔湾云、XSUS、极客云、WgetCloud、WCloud（原文Cloud-VPN）、咖啡云、奶优、泡泡Dog、大哥云、星云、泰山、飞鸟、精灵学院、青云梯、好鸭、龙猫云。云猫、纵云梯、八戒未找到同名对应章节，使用本次资料。
 
 摘改时移除无证据的体验保证、第一人称实测及旧优惠，修正与当前页面冲突的协议和设备限制。原文价格未导入；正文价格表、配额、限制和截图保留本次记录。
+
+### 产品开头简介的对应来源（2026-10-30）
+
+17家对应简介摘录或改编自John19187/The-40-Best-VPNs维护者原创段落，原始结构为名称、简介、注册入口。云猫的两句文字保留用户在编辑器中的新增内容；相关参考为[NeuralNode-Dev/clash-v2rayn-shadowrocket](https://github.com/NeuralNode-Dev/clash-v2rayn-shadowrocket)，不据此验证宣传效果。纵云梯短句引自[ermaozi/ermao.net](https://github.com/ermaozi/ermao.net#纵云梯)，作者体验仅作为作者原话引用。八戒短句引自[jichangtuijian-1024/anliangfufeijichang](https://github.com/jichangtuijian-1024/anliangfufeijichang#三八戒机场)。后两者未确认宽泛转载许可，仅用短句引用。
+
+当前价格、付款周期、设备限制和套餐表保持本项目原记录；尔湾云、好鸭、极客云、精灵学院等客户端与协议冲突按当前资料处理。原文中的亲测数据、历史折扣、绝对匿名或全平台保证没有作为本文验证结果。
